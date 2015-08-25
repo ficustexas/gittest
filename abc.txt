@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+hi git
+ghood
+=======
+<<<<<<< HEAD
 hello git
 
 
@@ -6,3 +10,4 @@ hello git
 hi git
 ghood
 >>>>>>> 1d45718a3c6a61088f49700cfc71f031b4844546
+>>>>>>> a6ac8d9d15432067472d84ec9235391cd96dc627

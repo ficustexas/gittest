@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello git
 
 
+=======
+hi git
+ghood
+>>>>>>> 1d45718a3c6a61088f49700cfc71f031b4844546
